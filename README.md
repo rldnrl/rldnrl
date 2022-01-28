@@ -7,6 +7,6 @@
 
 ### `_______`에 관심이 있는 많습니다.
 - Frontend Testing(React Testing Library, Cypress)
-- Frontend InfraStructure(DevOps, CI/CD)
+- Frontend Infrastructure(DevOps, CI/CD)
 - 함수형 프로그래밍
 - 비동기 처리
