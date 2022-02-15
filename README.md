@@ -5,7 +5,7 @@
 - 정적 타이핑.(TypeScript)
 - 주변 사람들에게 개발 지식을 공유
 
-### `_______`에 관심이 있는 많습니다.
+### `_______`에 관심이 많습니다.
 - Frontend Testing(React Testing Library, Cypress)
 - Frontend Infrastructure(DevOps, CI/CD)
 - 함수형 프로그래밍
